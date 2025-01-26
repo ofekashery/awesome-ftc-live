@@ -12,18 +12,21 @@ A curated collection of **awesome** tools, projects, and resources for enhancing
 
 ## Livestream and Recording
 
-- [OBS FTC Stream Manager](https://github.com/FIRST-South-Carolina/obs-ftc-stream-manager) -
-  Switch OBS scenes based on match, record matches, and upload to YouTube and The Orange Alliance.
+- [OBS FTC Stream Manager](https://github.com/FIRST-South-Carolina/obs-ftc-stream-manager) - Automated video switching for OBS, record matches, and upload to YouTube and The Orange Alliance.
 
-- [ATEM FTC Switcher](https://github.com/aj-foster/FTCSwitcher) - Automate video switching for Blackmagic Design ATEM devices.
+- [ATEM FTC Switcher](https://github.com/aj-foster/FTCSwitcher) - Automated video switching for Blackmagic Design ATEM devices.
 
-- [FTC Livestream Switcher](https://github.com/zachies/ftc-livestream-switcher) -
-  Automatically switching a livestream between fields through OBS.
+- [FTC vMix AutoAV](https://github.com/FIRSTinMI/ftc-vmix-autoav) - Automated video switching for vMix.
 
-- [OBS FTC](https://github.com/jvens/obs-ftc/) -
-  Automatically switching a livestream between fields through OBS with a web interface.
+- [FTC Livestream Switcher](https://github.com/zachies/ftc-livestream-switcher) - Automated video switching for OBS.
+
+- [OBS FTC](https://github.com/jvens/obs-ftc/) - Automated video switching for OBS with a web interface.
 
 ## Tools
+
+- [FTC Event Schedule Builder](https://pmrobotics.org/ftc-event-tools/schedule-builder) - Planer for your event schedule.
+
+- [FTC Team Button Generator](https://pmrobotics.org/ftc-event-tools/printables) - Generate button images that you can cut out and turn into buttons.
 
 - [FTC Live Container Image](https://github.com/lilyinstarlight/docker-ftclive) - Docker container for running the FTC Live Scoring System.
 
