@@ -24,9 +24,11 @@ A curated collection of **awesome** tools, projects, and resources for enhancing
 
 ## Tools
 
-- [FTC Event Schedule Builder](https://pmrobotics.org/ftc-event-tools/schedule-builder) - Planer for your event schedule.
+- [FTC GA Tool](https://ga.ftc.tools) - Provides Game Announcers with up-to-date information while announcing events [(GitHub)](https://github.com/timtim17/ftc-gatool).
 
-- [FTC Team Button Generator](https://pmrobotics.org/ftc-event-tools/printables) - Generate button images that you can cut out and turn into buttons.
+- [FTC Event Schedule Builder](https://pmrobotics.org/ftc-event-tools/schedule-builder) - Planer for your event schedule [(GitHub)](https://github.com/CameronDeMille/first-event-tools).
+
+- [FTC Team Button Generator](https://pmrobotics.org/ftc-event-tools/printables) - Generate button images that you can cut out and turn into buttons [(GitHub)](https://github.com/CameronDeMille/first-event-tools).
 
 - [FTC Live Container Image](https://github.com/lilyinstarlight/docker-ftclive) - Docker container for running the FTC Live Scoring System.
 
