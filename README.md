@@ -6,6 +6,8 @@ A curated collection of **awesome** tools, projects, and resources for enhancing
 
 ## Field Control
 
+- [FTC FTA Dashboard](https://ftc-fta-dashboard.vercel.app) - A web-based dashboard for FTAs to monitor event fields in real time [(GitHub)](https://github.com/FIRSTIsrael/ftc-fta-dashboard).
+
 - [FTC Stack Light](https://github.com/FIRSTIsrael/ftc-stack-light) - Visually indicate the current state of the field with stack lights.
 
 - [FTC Scoring Display Setup](https://github.com/aj-foster/ftc-display) - Quick setup of field timer display on a Raspberry Pi.
